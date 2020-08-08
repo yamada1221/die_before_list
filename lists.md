@@ -14,7 +14,7 @@
 - [ ] 軍艦島へ行く
 - [ ] The First Treeを買う
 - [ ] The First Treeをクリアする
-- [ ] Spirit of the Northを買う
+- [x] Spirit of the Northを買う
 - [ ] Spirit of the Northをクリアする
 - [ ] 都民の日(10/1)にの対象施設に行く
 - [ ] パーコーの日(8/5)に肉の万葉へ行く
